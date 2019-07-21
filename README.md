@@ -4,9 +4,9 @@ This repository consists the link to of all my C++ projects along with  tutorial
 
 **Here are the links to my C++ projects along with their tutorials** (*Some of the instructions and tutorials may not be available as of now*)
 1. Project **GDML** ( *Generalized Data Markup Language* )
-	- Link : [Github - GDML](https://github.com/Alpha-BLUE487/GDML-Generalized-Data-Markup-Language/blob/master/README.)
+	- Link : [Github - GDML](https://github.com/Alpha-BLUE487/GDML-Generalized-Data-Markup-Language/blob/master)
 	- Tutorials: :)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA3NDEwNDM0LC04ODg2MzgxMzMsLTQ5OT
-ExODYyMV19
+eyJoaXN0b3J5IjpbLTc2MDY0MDc0OSwtODg4NjM4MTMzLC00OT
+kxMTg2MjFdfQ==
 -->
